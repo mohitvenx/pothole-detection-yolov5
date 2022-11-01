@@ -1,4 +1,4 @@
-# Pothole-detection-using-Tensorflow-Object-Detection-API
+# Pothole-detection-using-Tensorflow-Object-Detection
 Custom object detection classifier, detecting Potholes on roads. Used Tensorflow Object Detection API
 
 ## Brief Summary
